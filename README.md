@@ -149,4 +149,4 @@ if invalid_season_result["status"] == "error":
 
 以下のサイトで作り方を公開しています。
 
-[https://note.com/ai_hibari/n/n5de690d1bb5c]
+https://note.com/ai_hibari/n/n5de690d1bb5c
